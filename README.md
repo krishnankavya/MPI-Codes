@@ -1,1 +1,2 @@
-# MPI-Codes-
+# MPI-Codes
+Parallelisation codes for scientific computing
